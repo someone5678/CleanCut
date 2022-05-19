@@ -1,7 +1,7 @@
 {
   "required": true,
   "package": "xyz.rongmario.cleancut",
-  "compatibilityLevel": "JAVA_8",
+  "compatibilityLevel": "JAVA_17",
   "client": [
     "MixinMinecraftClient"
   ]
